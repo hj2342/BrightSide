@@ -1,0 +1,70 @@
+/* MoodSelector.css */
+
+/* Container for the entire mood selector component */
+.mood-selector {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Styling for the heading */
+h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Container for predefined mood buttons */
+.predefined-moods {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+/* Styling for individual mood buttons */
+.mood-button {
+  padding: 10px 20px;
+  background-color: #f0f0f0;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Hover effect for mood buttons */
+.mood-button:hover {
+  background-color: #e0e0e0;
+}
+
+/* Container for custom mood input form */
+.custom-mood-form {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+/* Styling for custom mood input field */
+.mood-input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 200px;
+}
+
+/* Styling for submit button */
+.submit-button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Hover effect for submit button */
+.submit-button:hover {
+  background-color: #45a049;
+}
