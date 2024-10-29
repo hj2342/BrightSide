@@ -29,7 +29,14 @@ Now, let's start filling in some of these sections:
 
 ## 1. Introduction
 
-BrightSide is a web application that provides music and quote recommendations based on the user's current mood. It integrates with the MusicBrainz API for music recommendations, the Quotable API for inspirational quotes, and the Pexels API for mood-related images.
+BrightSide is a web application designed to solve the common problem of finding music and inspirational quotes that match your current mood. Many people struggle to find content that resonates with their emotional state, which can impact their ability to process feelings or find motivation. BrightSide addresses this issue by:
+
+1. Allowing users to easily input their current mood
+2. Providing music recommendations tailored to that mood using the MusicBrainz API
+3. Offering inspirational quotes that align with the user's emotional state
+4. Displaying mood-appropriate background images to enhance the user experience
+
+By combining these features, BrightSide creates a personalized, mood-enhancing environment for users, effectively solving the problem of disconnected content consumption and emotional states. It integrates with the MusicBrainz API for music recommendations, the Quotable API for inspirational quotes, and the Pexels API for mood-related images.
 
 ## 2. Getting Started
 
