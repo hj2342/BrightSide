@@ -23,7 +23,7 @@
    - pexelsService
 8. Troubleshooting
 9. Contributing
-10. License
+10. Acknowledgment
 
 Now, let's start filling in some of these sections:
 
@@ -40,7 +40,7 @@ BrightSide is a web application that provides music and quote recommendations ba
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/brightside.git
+   https://github.com/hj2342/BrightSide.git
    ```
 2. Navigate to the project directory:
    ```
@@ -174,7 +174,7 @@ Guidelines for contributing to the project:
 4. Push your changes to your fork
 5. Submit a pull request with a description of your changes
 
-## 10.AI-Generated Code Credit
+## 10.Acknowledgment
 
 This project was developed with the assistance of AI, specifically OpenAI's language model. The following components and functions were generated or significantly influenced by AI:
 
