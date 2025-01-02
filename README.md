@@ -94,9 +94,8 @@ Key points:
 
 For more details on the MusicBrainz API, refer to their [official documentation](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2).
 
-Certainly! Let's continue with the documentation for your BrightSide project. We'll pick up where we left off and add more details to the sections we started earlier.
 
-## 5. API Integration (continued)
+## 5. API Integration
 
 ### Quotable API
 BrightSide uses the Quotable API to fetch inspirational quotes based on the user's mood.
